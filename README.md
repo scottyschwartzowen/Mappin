@@ -1,7 +1,7 @@
 # Mappin' IOS App
 
 <p align="left">
-    <img src="https://github.com/scottyschwartzowen/mappin/assets/map-app" alt="Mappin App Image" width="75%" />
+    <img src="https://github.com/scottyschwartzowen/mappin/assets/map-app.png" alt="Mappin App Image" width="75%" />
 </p>
 
 - Created 100% in Swift / SwiftUI
