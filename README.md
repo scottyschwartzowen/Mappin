@@ -10,8 +10,6 @@
 
 - Created 100% in Swift / SwiftUI
 
-- Project developed along side a @Swiftful Thinking YouTuibe tutorial
-
 ## App Features
 
 - Launch screen and pinpoint location finder
