@@ -3,7 +3,7 @@
 ![img](ScottysMapApp/Assets/Images/map-app.png)
 
 <p align="left">
-    <img src="ScottysMapApp/Assets/Images/map-app.png" alt="Mappin App Image" width="70%" />
+    <img src="map-app.png" alt="Mappin App Image" width="70%" />
 </p>
 
 - Created 100% in Swift / SwiftUI
