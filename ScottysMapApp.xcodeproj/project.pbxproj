@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		2D070A542C62ABA70036B7F0 /* LocationDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailView.swift; sourceTree = "<group>"; };
-		2D772A672CAC961900492A3A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2D772A672CAC961900492A3A /* README.md */ = {isa = PBXFileReference; explicitFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2D7F8B002C6193DB00026647 /* LocationMapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationMapAnnotationView.swift; sourceTree = "<group>"; };
 		2D8329922C59EED6003A808D /* ScottysMapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScottysMapApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D8329952C59EED6003A808D /* ScottysMapApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScottysMapApp.swift; sourceTree = "<group>"; };

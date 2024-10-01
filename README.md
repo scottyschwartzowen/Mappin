@@ -1,6 +1,6 @@
 # Mappin' IOS App
 
-![img](Images/map-app)
+![img](ScottysMapApp/Assets/Images/map-app)
 
 - Created 100% in Swift / SwiftUI
 
@@ -10,7 +10,7 @@
 
 - Project developed along side a @Swiftful Thinking YouTuibe tutorial
 
-# App Features
+## App Features
 
 - Launch screen and pinpoint location finder
 
