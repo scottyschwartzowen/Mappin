@@ -1,6 +1,6 @@
 # Mappin' IOS App
 
-![img]("map-app.png")
+![img](map-app.png)
 
 - Created 100% in Swift / SwiftUI
 
