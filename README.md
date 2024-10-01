@@ -1,10 +1,10 @@
 # Mappin' IOS App
 
-![img](map-app.png)
+![img](assets/map-app.png)
 
 - Created 100% in Swift / SwiftUI
 
-- Project developed along side a @Swiftful Thinking YouTuibe tutorial
+- Project developed alongside a @SwiftfulThinking YouTube tutorial
 
 # App Features
 
